@@ -2,3 +2,36 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
 }
+
+header a {
+  color: white;
+}
+
+h2 {
+  color: navy;
+  border-bottom: 1px solid gray;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  max-width: 220px;
+  width: 100%;
+  border: 1px solid black;
+}
+
+.evidence-img {
+  border: 1px solid gray;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 8px;
+}
+
+footer {
+  font-size: 14px;
+}
